@@ -13,10 +13,10 @@
 
 https://cv.hexlet.io/ru/resumes/3374
 
-<b>Contacts:</b>
+<b>Контакты:</b>
 
 - 📧 email: mall.87@mail.ru
-- 📱telegram: https://t.me/MikhailVasilev87
+- <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="18px" height="18px" alt="telegram">  https://t.me/MikhailVasilev87
 
 <b>Skills:</b>
 
@@ -54,17 +54,6 @@ https://cv.hexlet.io/ru/resumes/3374
 [Mind Games](https://github.com/MarkDementev/Mind-games)
 - A set of five intellectual games controlled via console. Each game asks questions that need to be answered correctly.
 
-<!--
-**MihailGit87/MihailGit87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihailGit87&layout=compact&hide=css,html&theme=onedark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MihailGit87&count_private=true&show_icons=true&theme=onedark)
