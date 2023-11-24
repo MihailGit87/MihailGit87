@@ -16,7 +16,7 @@ https://cv.hexlet.io/ru/resumes/3374
 <b>Contacts:</b>
 
 - 📧 email: mall.87@mail.ru
-- 📱telegram: @MikhailVasilev87
+- 📱telegram: https://t.me/MikhailVasilev87
 
 <b>Skills:</b>
 
