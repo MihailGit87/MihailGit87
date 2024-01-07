@@ -34,7 +34,6 @@ https://cv.hexlet.io/ru/resumes/3374
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
 <b>Мои проекты:</b>
 
 [Task Manager]()
