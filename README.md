@@ -28,7 +28,6 @@ https://cv.hexlet.io/ru/resumes/3374
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -36,7 +35,7 @@ https://cv.hexlet.io/ru/resumes/3374
 
 <b>Мои проекты:</b>
 
-[Task Manager]()
+[Task Manager](https://github.com/MihailGit87/java-project-99)
 - Task management system. It allows you to set tasks, assign performers and change their statuses. Registration and authentication are required to work with the system.
 
 [Page Analyzer](https://github.com/MihailGit87/java-project-72)
