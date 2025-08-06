@@ -9,9 +9,9 @@
 
 **```  ```**.
 
-<b>Моё резюме на CV:</b>
+<b>Моё резюме на HH:</b>
 
-https://cv.hexlet.io/ru/resumes/3374
+[https://cv.hexlet.io/ru/resumes/3374](https://spb.hh.ru/resume/a58f5f4fff049b3c5f0039ed1f474655676274)
 
 <b>Контакты:</b>
 
